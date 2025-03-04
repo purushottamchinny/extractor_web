@@ -1,0 +1,10 @@
+streamlit
+easyocr
+Pillow
+numpy
+pdf2image
+opencv-python-headless
+torch
+tensorflow
+keras
+tensorflow==2.16.2
